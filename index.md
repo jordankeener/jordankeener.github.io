@@ -4,4 +4,4 @@ title:
 order: 1
 ---
 
-@@include[research.md](research.md)
+@@include[](research.md)
