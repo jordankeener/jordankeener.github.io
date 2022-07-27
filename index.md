@@ -4,4 +4,4 @@ title:
 order: 1
 ---
 
-@@include[about.md]
+{% include_relative research.md %}
