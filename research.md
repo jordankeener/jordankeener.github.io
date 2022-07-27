@@ -18,6 +18,6 @@ permalink: /research/
 
 ### Work in Progress
 
-**["Consumer Inattention and Insurer Incentives in the ACA Exchanges"]**
+**"Consumer Inattention and Insurer Incentives in the ACA Exchanges"**
 
 *Abstract*: In markets with significant persistence in consumer choices over time, how do changes to product characteristics affect consumer attention and inertia? I address this question in the context of individual health plan selections on the insurance exchanges established under the Affordable Care Act. Using data on the propensity of returning customers to actively select a plan rather than automatically re-enroll in their previous choice, I find that both premium increases and changes to the structure of provider networks make consumers more attentive. Estimates from a structural model of plan choices imply that switching costs for returning consumers are significantly reduced following a large premium increase by their previously chosen plan. I find no evidence that switching costs are lower following changes to provider networks.
